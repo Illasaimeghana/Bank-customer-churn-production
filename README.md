@@ -66,10 +66,4 @@ By predicting churn, banks can:
   - High balance but low activity
   - Short tenure in the bank
 
----
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bank-customer-churn-prediction.git
-   cd bank-customer-churn-prediction
